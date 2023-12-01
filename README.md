@@ -4,12 +4,6 @@
 
 Book Search Engine is a web application that enables users to log in, search for books, and create personal book lists. Users can log into their accounts, search for books by title or author, save preferred books to their lists, and manage their saved books. The application offers a seamless experience for book enthusiasts to organize and keep track of their reading interests.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
