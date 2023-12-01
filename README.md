@@ -1,10 +1,10 @@
-# BookSearchEngine
+# Book Search Engine
 
-## Description
+## Overview
 
-This application allows users to login, search, and save books to their personal book lists. They are able to log into their account to view their lists and remove books from the list if necessary. 
+Book Search Engine is a web application that enables users to log in, search for books, and create personal book lists. Users can log into their accounts, search for books by title or author, save preferred books to their lists, and manage their saved books. The application offers a seamless experience for book enthusiasts to organize and keep track of their reading interests.
 
-## Table of Contents 
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,31 +13,35 @@ This application allows users to login, search, and save books to their personal
 
 ## Installation
 
-You can access this project by clicking the following link: https://book-search-mo-29b7e60e16a6.herokuapp.com/
+To access this project, simply follow this [link](https://booksearchcf-349f04de8288.herokuapp.com/).
 
 ## Usage
-Users may use the navigation bar to login/signup and fill out the appropriate form.
 
-Users may use the search bar on the 'Search for Books' tab to find a book by title or author. 
+### User Navigation
 
-Users may save a book of their choice by clicking the 'Save this Book' button on the book's card. 
+Users can utilize the navigation bar for logging in or signing up by completing the respective forms.
 
-Users may view their saved books in the 'See your Books' tab. Here, they are able to delete a book from their list using the 'Delete this Book' button.
+### Book Search
 
-Users may also logout of their account using the 'Logout' tab on the navigation bar. 
+On the 'Search for Books' tab, users can enter book titles or authors into the search bar to find books of interest.
 
-Watch the following gif to see the application in action!:
+### Saving Books
+
+Users can save a book by clicking the 'Save this Book' button on the book's card.
+
+### Viewing Saved Books
+
+Navigate to the 'See your Books' tab to view the saved books list. Here, users can delete books from their lists using the 'Delete this Book' button.
+
+### Logout
+
+To log out, users can click the 'Logout' tab on the navigation bar.
+
+## Demo
 
 ![BookSearch](./Assets/bookSearch.gif)
 
-## Credits
-
-[Coding Bootcamp](https://courses.bootcampspot.com)
-
-[Professor Phil Loy](https://github.com/philliploy)
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+This project is licensed under the [MIT License](LICENSE)
