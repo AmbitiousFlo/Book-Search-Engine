@@ -33,7 +33,7 @@ To log out, users can click the 'Logout' tab on the navigation bar.
 
 ## Demo
 
-![BookSearch](./Assets/bookSearch.gif)
+![BookSearch](./assets/bookSearch.gif)
 
 
 ## License
